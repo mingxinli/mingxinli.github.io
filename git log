@@ -1,0 +1,41 @@
+[33mcommit 7a884cc95178dd03d03b66127e5a6ff25f8f4890[m
+Author: Ming Li <mingxinli2007@gmail.com>
+Date:   Wed Feb 3 19:49:19 2016 -0800
+
+    Update _config.yml
+
+[33mcommit 959bb90a30c4048a19963b121e209d70b784d13c[m
+Author: Ming Li <mingxinli2007@gmail.com>
+Date:   Wed Feb 3 15:23:45 2016 -0800
+
+    Add the first post - put it to test
+
+[33mcommit 0ae571b5459d78bb1ff3646a4ea514b8e55089bc[m
+Author: mingxinli <mingxinli2007@gmail.com>
+Date:   Wed Feb 3 15:10:35 2016 -0800
+
+    Update _config.yml
+
+[33mcommit d78fc74f60a197a4696f44f937e99843f7e67d94[m
+Author: Ming Li <mingxinli2007@gmail.com>
+Date:   Wed Feb 3 14:30:15 2016 -0800
+
+    Add todo.txt and drafts/ folder to .gitignore
+
+[33mcommit 201bb8c3d24bd177a1afc88834cca6a853cc3c2f[m
+Author: Ming Li <mingxinli2007@gmail.com>
+Date:   Wed Feb 3 14:00:19 2016 -0800
+
+    Add description
+
+[33mcommit 595ca78c9e85ab1622e1f147e3dcc0173825528d[m
+Author: Ming Li <mingxinli2007@gmail.com>
+Date:   Wed Feb 3 13:55:53 2016 -0800
+
+    Add my name
+
+[33mcommit ca500b2722c362cb2a5787d37eb14c3ae53bcc9c[m
+Author: Ming Li <mingxinli2007@gmail.com>
+Date:   Wed Feb 3 13:47:17 2016 -0800
+
+    Add blog template
