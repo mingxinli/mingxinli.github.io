@@ -5,5 +5,3 @@ title: today's words
 
 It rained; it shined.
 We laughed, and no one cried.
-
-![profile]({{ site.baseurl }}/images/config.png)
